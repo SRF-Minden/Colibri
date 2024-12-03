@@ -11,8 +11,6 @@
     "description": "Toolkit for Rapid Prototyping of Networking Across Realities for Research Prototypes",
     "license": "MIT",
     "dependencies": {
-        "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
-        "com.neuecc.unirx": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts"
     },
     "samples":
     [
